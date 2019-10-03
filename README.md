@@ -1,2 +1,2 @@
 # Standard-Calculator
-Discription
+A calculator that operates only addition, subtruction, multiplication and devision.  
